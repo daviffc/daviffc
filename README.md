@@ -9,8 +9,11 @@ Tenho desenvolvido projetos com o objetivo de consolidar conceitos fundamentais 
  - Tecnologias
 
 Java 
+
 Git e GitHub
+
 Programação Orientada a Objetos
+
 Lógica de Programação
 
 
@@ -18,9 +21,13 @@ Lógica de Programação
  - Objetivos de Aprendizado
 
 Estruturação de projetos (padrão MVC)
+
 Integração com banco de dados (MySQL ou SQLite)
+
 Desenvolvimento de APIs com Spring Boot
+
 Aprimoramento de boas práticas em Java
+
 - Contato
 
 LinkedIn:
