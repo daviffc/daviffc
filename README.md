@@ -1,14 +1,16 @@
-Davi Ferreira Coelho (Shorkzzz)
+Davi Ferreira Coelho (daviffc)
 
 Estudante de programação com foco em desenvolvimento back-end em Java.
 
  - Sobre
 
-Tenho desenvolvido projetos com o objetivo de consolidar conceitos fundamentais de programação, especialmente em Java.
+Tenho desenvolvido projetos com o objetivo de consolidar conceitos fundamentais de programação, especialmente em Java e Typescript.
 
  - Tecnologias
 
 Java 
+
+Typescript
 
 Git e GitHub
 
