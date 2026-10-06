@@ -1,7 +1,7 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:1e1b4b,100:6d28d9&text=DAVI%20COELHO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;COMPUTER+SCIENCE+STUDENT;BACK-END+%26+FULL+STACK+DEVELOPMENT;JAVA+%7C+TYPESCRIPT+%7C+NODE.JS;REACT+%7C+NEXT.JS+%7C+POSTGRESQL;DOCKER+%7C+PRISMA+%7C+NEON;WELCOME+TO+MY+CODE+UNIVERSE"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;COMPUTER+SCIENCE+STUDENT;%26+FULL+STACK+DEVELOPMENT;JAVA+%7C+TYPESCRIPT+%7C+NODE.JS;REACT+%7C+NEXT.JS+%7C+POSTGRESQL;DOCKER+%7C+PRISMA+%7C+NEON;WELCOME+TO+MY+CODE+UNIVERSE"/>
 </div>
 
 ---
