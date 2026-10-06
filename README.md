@@ -34,7 +34,7 @@ STATUS: ONLINE 🚀
 const Davi = {
   name: "Davi Ferreira Coelho",
   role: "Computer Science Student",
-  focus: "Back-end & Full Stack Development",
+  focus: "Full Stack Development",
   location: "Brazil 🇧🇷",
 
   stack: {
